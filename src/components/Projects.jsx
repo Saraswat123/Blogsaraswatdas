@@ -6,14 +6,14 @@ const projects = [
     subtext: "Decentralized Greywater Treatment",
     description: "AquafySystems delivers affordable, decentralized greywater treatment using IoT and AI. Founded in 2024 in Bhubaneswar, it aims to improve water management for 600 million people in water-scarce areas.",
     image: "/assets/P1.jpg",
-    link: "https://github.com/username/repo1",
+    link: "https://github.com/Saraswat123/AquafySystems-SIH-",
   },
   {
     title: "Agro-Tech",
     subtext: "Optimizing Crop Yield",
     description: "AgroTech leverages IoT and machine learning to optimize crop yield and resource management with real-time insights, benefiting both small and large-scale farmers.",
     image: "/assets/P2.jpg",
-    link: "https://github.com/username/repo2",
+    link: "https://github.com/Saraswat123/AgroTech-Farmers-",
   },
   {
     title: "Open-Channel-Flow",
