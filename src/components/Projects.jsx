@@ -18,7 +18,7 @@ const projects = [
   {
     title: "Open-Channel-Flow",
     subtext: "Fluid Dynamics Solutions",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed do eiusmod tempor incididunt ut labore et dolore magna.",
+    description: "The Ocean Tech Module is a compact 500g system designed to monitor ocean wave parameters, capturing wave velocity, acceleration, and time period. Standing at 15 cm, it aids in risk assessments for coastal landslides and bridge collapse, making it vital for environmental and structural safety.",
     image: "/assets/P3.png",
     link: "https://github.com/username/repo3",
   },
