@@ -6,7 +6,7 @@ const Hero = () => {
       {/* Image container */}
       <div className="flex-shrink-0 w-full md:w-1/2 flex justify-center items-center p-10">
         <img
-          src="../src/assets/Hero_item.jpeg"
+          src="/assets/Hero_item.jpeg"
           alt="Profile"
           className="rounded-full w-11/12 h-auto"
         />

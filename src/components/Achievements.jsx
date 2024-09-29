@@ -4,22 +4,22 @@ const achievements = [
   {
     title: "Smart India Hackathon (SIH) 2023",
     description: "Competed with 500 teams from all over India & secured the runner-up position.",
-    image: "src/assets/A1.jpg",
+    image: "/assets/A1.jpg",
   },
   {
     title: "L&T Ideation Water Challenge 2024",
     description: "Among 300 teams competing across all over India & achieved a place in the top 3 teams nationwide.",
-    image: "src/assets/A2.jpg",
+    image: "/assets/A2.jpg",
   },
   {
     title: "AICTE (Innovation Design Entrepreneurship) Camp 2024",
     description: "Competed with top 20 competitors all over India, where I emerged as Champion.",
-    image: "src/assets/A3.jpeg",
+    image: "/assets/A3.jpeg",
   },
   {
     title: "Youth India Conclave Innovation Challenge 2024",
     description: "Champion",
-    image: "src/assets/A4.jpg",
+    image: "/assets/A4.jpg",
   },
 ];
 
